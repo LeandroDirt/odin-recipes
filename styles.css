@@ -1,0 +1,42 @@
+#bindex {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #fb998e;
+}
+
+h1 {
+  text-align: center;
+  font-size: 70px;
+}
+
+ul,
+h3,
+h5,
+ol {
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  font-size: 35px;
+}
+
+p {
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  font-size: 20px;
+}
+
+#bgalles {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #9fd5d1;
+}
+
+#bvitel {
+  background-color: #03f132c5;
+}
+
+#bpan {
+  background-color: #d6851f;
+}
+
+.back {
+  font-weight: bold;
+  color: currentColor;
+}
